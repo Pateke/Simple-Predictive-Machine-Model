@@ -61,7 +61,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 The linear regression model is trained using the training set (X_train and y_train):<br>
 
 model = LinearRegression()<br>
-model.fit(X_train.values.reshape(-1, 1), y_train)  # Reshaping X_train for fitting the model
+model.fit(X_train.values, y_train.value)  # Reshaping X_train for fitting the model
 ________________________________________
 
 
