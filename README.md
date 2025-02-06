@@ -1,4 +1,4 @@
-# Linear Regression Model Documentation: Predicting Nigeria's Inflation Rate
+# Linear Regression Model: Predicting Nigeria's Inflation Rate
 
 This documentation outlines the process of developing and evaluating a linear regression model to predict Nigeria's inflation rate using real-world economic data. The model leverages the relationship between various Consumer Price Index (CPI) components and key economic indicators to predict the inflation rate, and its performance is measured using the Mean Absolute Error (MAE) metric.
 ________________________________________
@@ -17,7 +17,9 @@ ________________________________________
 The dataset provides a comprehensive overview of Nigeria's monthly inflation rates from March 2003 to June 2024. It also includes key economic indicators such as:<br>
 
 •	Crude oil prices<br>
+
 •	Production levels<br>
+
 •	Various Consumer Price Index (CPI) components<br>
 
 This dataset is ideal for time series analysis, forecasting, and economic modeling, capturing significant trends that are valuable for economic prediction.
