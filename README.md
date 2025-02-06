@@ -6,9 +6,11 @@ ________________________________________
 # Problem Statement
 
 •	**Objective:** <br>
+
 To create a predictive model that can estimate Nigeria's inflation rate based on select features of various CPI components.<br>
 
 •	**Goal:** <br>
+
 The model will take input values for selected economic features (like CPI components) and predict the inflation rate, providing a tool for forecasting and understanding economic trends.
 ________________________________________
 
