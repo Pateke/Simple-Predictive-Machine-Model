@@ -79,8 +79,8 @@ The test MAE of 2.33 demonstrates that the model’s predictions are closer to t
 
 # Make predictions on train and test sets
 
-train_predictions = model.predict(X_train.values.reshape(-1, 1))<br>
-test_predictions = model.predict(X_test.values.reshape(-1, 1))<br>
+train_predictions = model.predict(X_train.values.shape)<br>
+test_predictions = model.predict(X_test.values.shape)<br>
 
 # Calculate MAE for training and testing sets
 
