@@ -3,7 +3,7 @@
 This documentation outlines the process of developing and evaluating a linear regression model to predict Nigeria's inflation rate using real-world economic data. The model leverages the relationship between various Consumer Price Index (CPI) components and key economic indicators to predict the inflation rate, and its performance is measured using the Mean Absolute Error (MAE) metric.
 ________________________________________
 
-# Problem Statement
+# Problem Statement.
 
 •	**Objective** <br>
 
